@@ -1,7 +1,7 @@
 #!/usr/bin/python
-ag=[e.split('\t')[0] for e in open('ag_shuf_1000.txt')]
-nc=[e.split('\t')[0] for e in open('nc_shuf_1000.txt')]
-vm=[e.split('\t')[0] for e in open('vm_shuf_1000.txt')]
+ag=[e.split('\t')[0].split('#')[0] for e in open('ag_shuf_1000.txt')]
+nc=[e.split('\t')[0].split('#')[0] for e in open('nc_shuf_1000.txt')]
+vm=[e.split('\t')[0].split('#')[0] for e in open('vm_shuf_1000.txt')]
 from random import shuffle
 all=ag+nc+vm
 shuffle(all)
