@@ -113,7 +113,7 @@
     }, 
     "17b.14": {
         "godine": 20, 
-        "mjesto rođenja": "Slavonski Brod", 
+        "mjesto rođenja": "Slavonski brod", 
         "strani jezici": "en sv de", 
         "čitanje": "3-4", 
         "mjesto života": "Nova Gradiška", 
@@ -505,7 +505,7 @@
     }, 
     "30b.02": {
         "godine": 20, 
-        "mjesto rođenja": "Westerstede, Njemačka", 
+        "mjesto rođenja": "Westerstede,NJem", 
         "strani jezici": "en", 
         "čitanje": "1-2", 
         "mjesto života": "Bjelovar", 
@@ -666,7 +666,7 @@
     "20a.12": {
         "godine": 20, 
         "mjesto rođenja": "Nova Gradiška", 
-        "strani jezici": "tr", 
+        "strani jezici": "en tr", 
         "čitanje": "3-4", 
         "mjesto života": "Nova Gradiška", 
         "spol": "m"
@@ -1170,7 +1170,7 @@
     "16b.12": {
         "godine": 21, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "de", 
+        "strani jezici": "de en", 
         "čitanje": "3-4", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -1178,7 +1178,7 @@
     "16b.13": {
         "godine": 21, 
         "mjesto rođenja": "Frankfurt", 
-        "strani jezici": "de tr", 
+        "strani jezici": "de en tr", 
         "čitanje": "-", 
         "mjesto života": "Slavonski Brod", 
         "spol": "ž"
@@ -1242,7 +1242,7 @@
     "27a.08": {
         "godine": 28, 
         "mjesto rođenja": "Zadar", 
-        "strani jezici": "en hu sl", 
+        "strani jezici": "en hu sk ko", 
         "čitanje": "3-4", 
         "mjesto života": "Zadar", 
         "spol": "ž"
@@ -2042,7 +2042,7 @@
     "27b.08": {
         "godine": 23, 
         "mjesto rođenja": "Čakovec", 
-        "strani jezici": "en pl sl", 
+        "strani jezici": "en pl sk", 
         "čitanje": "1-2", 
         "mjesto života": "Čakovec", 
         "spol": "ž"
@@ -2185,7 +2185,7 @@
     }, 
     "28a.02": {
         "godine": 20, 
-        "mjesto rođenja": "Osijek", 
+        "mjesto rođenja": "Soijek", 
         "strani jezici": "en pl sl bg", 
         "čitanje": "3-4", 
         "mjesto života": "Našice", 
@@ -2370,7 +2370,7 @@
     "20b.02": {
         "godine": 25, 
         "mjesto rođenja": "BA", 
-        "strani jezici": "en de sl mk", 
+        "strani jezici": "en de sk mk", 
         "čitanje": "3-4", 
         "mjesto života": "Karlovac", 
         "spol": "ž"
@@ -2394,7 +2394,7 @@
     "20b.03": {
         "godine": 23, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en hu sl", 
+        "strani jezici": "en hu sk", 
         "čitanje": "više od 6", 
         "mjesto života": "Pregrada", 
         "spol": "ž"
@@ -2434,7 +2434,7 @@
     "20b.05": {
         "godine": 24, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de sl sk", 
+        "strani jezici": "en de sk sl", 
         "čitanje": "5-6", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -2753,10 +2753,10 @@
     }, 
     "18a.06": {
         "godine": 20, 
-        "mjesto rođenja": "Slavonski Brod", 
+        "mjesto rođenja": "Slavonski brod", 
         "strani jezici": "en es de", 
         "čitanje": "1-2", 
-        "mjesto života": "Slavonski Brod", 
+        "mjesto života": "Slavonski brod", 
         "spol": "ž"
     }, 
     "18a.07": {
@@ -3275,7 +3275,7 @@
         "godine": 24, 
         "mjesto rođenja": "Zadar", 
         "strani jezici": "en", 
-        "čitanje": "manje od 1", 
+        "čitanje": "anje od 1", 
         "mjesto života": "Zadar", 
         "spol": "ž"
     }, 
@@ -3290,7 +3290,7 @@
     "20b.04": {
         "godine": 23, 
         "mjesto rođenja": "Dubrovnik", 
-        "strani jezici": "en fr sl", 
+        "strani jezici": "en fr sk", 
         "čitanje": "3-4", 
         "mjesto života": "Dubrovnik", 
         "spol": "ž"
@@ -3353,10 +3353,10 @@
     }, 
     "29a.01": {
         "godine": 21, 
-        "mjesto rođenja": "Slavonski Brod", 
+        "mjesto rođenja": "Slavonski brod", 
         "strani jezici": "en", 
         "čitanje": "3-4", 
-        "mjesto života": "Slavonski Brod", 
+        "mjesto života": "Slavonski", 
         "spol": "m"
     }, 
     "24b.07": {
@@ -3714,7 +3714,7 @@
     "20b.06": {
         "godine": 26, 
         "mjesto rođenja": "Varaždin", 
-        "strani jezici": "en de fr it nl sl", 
+        "strani jezici": "en de fr it dt sl", 
         "čitanje": "više od 6", 
         "mjesto života": "Varaždin", 
         "spol": "ž"
@@ -3946,7 +3946,7 @@
     "23b.09": {
         "godine": 19, 
         "mjesto rođenja": "Koprivnica", 
-        "strani jezici": "-", 
+        "strani jezici": "en de", 
         "čitanje": 19, 
         "mjesto života": "Križevci", 
         "spol": "ž"
@@ -4194,7 +4194,7 @@
     "16a.06": {
         "godine": 21, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "de ko", 
+        "strani jezici": "de en ko", 
         "čitanje": "1-2", 
         "mjesto života": "Dubrovnik", 
         "spol": "ž"
@@ -4474,7 +4474,7 @@
     "23a.09": {
         "godine": 20, 
         "mjesto rođenja": "Varaždin", 
-        "strani jezici": "en de ru uk", 
+        "strani jezici": "en de ru sk", 
         "čitanje": "1-2", 
         "mjesto života": "Novi Marof", 
         "spol": "ž"
@@ -5258,7 +5258,7 @@
     "20b.12": {
         "godine": 19, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de cz", 
+        "strani jezici": "en de cs", 
         "čitanje": "3-4", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -6098,7 +6098,7 @@
     "24b.15": {
         "godine": 23, 
         "mjesto rođenja": "Zabok", 
-        "strani jezici": "en de es sl", 
+        "strani jezici": "en de es sk", 
         "čitanje": "3-4", 
         "mjesto života": "Desinić", 
         "spol": "ž"
@@ -6810,7 +6810,7 @@
     "23a.06": {
         "godine": 20, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en uk sl", 
+        "strani jezici": "en ukr sl", 
         "čitanje": "1-2", 
         "mjesto života": "Jastrebarsko", 
         "spol": "ž"

@@ -1418,7 +1418,7 @@
     "05a.10": {
         "godine": 20, 
         "mjesto rođenja": "Sisak", 
-        "strani jezici": "en de ja", 
+        "strani jezici": "en de jp", 
         "čitanje": "3-4", 
         "mjesto života": "Voloder", 
         "spol": "m"
@@ -1442,7 +1442,7 @@
     "05a.15": {
         "godine": 19, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de fr sq", 
+        "strani jezici": "en de fr sl", 
         "čitanje": "3-4", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -1586,7 +1586,7 @@
     "22b.08": {
         "godine": 18, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de es", 
+        "strani jezici": "en de sp", 
         "čitanje": "3-4", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -2338,7 +2338,7 @@
     "05b.02": {
         "godine": 19, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de ja", 
+        "strani jezici": "en de jp", 
         "čitanje": "3-4", 
         "mjesto života": "Zagreb", 
         "spol": "ž"
@@ -4002,7 +4002,7 @@
     "14b.13": {
         "godine": 26, 
         "mjesto rođenja": "SI", 
-        "strani jezici": "en de it es ja ko zh", 
+        "strani jezici": "en de it es jp ko zh", 
         "čitanje": "3-4", 
         "mjesto života": "Lovran", 
         "spol": "ž"
@@ -4250,7 +4250,7 @@
     "21b.12": {
         "godine": 30, 
         "mjesto rođenja": "Split", 
-        "strani jezici": "en ja", 
+        "strani jezici": "en jp", 
         "čitanje": "3-4", 
         "mjesto života": "Split", 
         "spol": "ž"
@@ -4402,7 +4402,7 @@
     "22b.14": {
         "godine": 20, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en fr la", 
+        "strani jezici": "en fr lat", 
         "čitanje": "manje od 1", 
         "mjesto života": "Velika Gorica", 
         "spol": "ž"
@@ -5258,7 +5258,7 @@
     "02a.08": {
         "godine": 21, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de ja", 
+        "strani jezici": "en de jp", 
         "čitanje": "3-4", 
         "mjesto života": "Zaprešić", 
         "spol": "ž"
@@ -5698,7 +5698,7 @@
     "19a.10": {
         "godine": 20, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de ja", 
+        "strani jezici": "en de jp", 
         "čitanje": "1-2", 
         "mjesto života": "Velika Gorica", 
         "spol": "m"
@@ -6010,7 +6010,7 @@
     "24b.12": {
         "godine": 21, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en es", 
+        "strani jezici": "enl šp", 
         "čitanje": "1-2", 
         "mjesto života": "Velika Gorica", 
         "spol": "ž"
@@ -6882,7 +6882,7 @@
     "29b.12": {
         "godine": 19, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de ro mk", 
+        "strani jezici": "en de ru mk", 
         "čitanje": "1-2", 
         "mjesto života": "Zagreb", 
         "spol": "m"
@@ -6898,7 +6898,7 @@
     "29b.10": {
         "godine": 20, 
         "mjesto rođenja": "Zagreb", 
-        "strani jezici": "en de hi sk bg", 
+        "strani jezici": "en de hi sl bg", 
         "čitanje": "1-2", 
         "mjesto života": "Zagreb", 
         "spol": "ž"

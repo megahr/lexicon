@@ -125,6 +125,7 @@ ići#Vm	929932
 pitanje#Nc	891522
 svijet#Nc	880246
 zemlja#Nc	874161
+činiti se#Vm	184937
 stvar#Nc	865093
 posao#Nc	862255
 osoba#Nc	853701
@@ -415,7 +416,8 @@ zajednica#Nc	299830
 Hrvat#Np	299680
 međunarodni#Ag	299527
 ljudski#Ag	299267
-ovakav#Pd	298918
+zapiljiti se#Vm	170
+ovakav#Ag	298918
 korisnik#Nc	298522
 zajedno#Rg	298061
 pogledati#Vm	297961
@@ -912,6 +914,7 @@ izrada#Nc	146032
 običan#Ag	145957
 utjecati#Vm	145828
 Josip#Np	145572
+dogoditi se#Vm	145526
 idući#Ag	145399
 savjet#Nc	145236
 SAD#Np	145131
@@ -1008,6 +1011,7 @@ faza#Nc	133636
 kosa#Nc	133225
 Ante#Np	133215
 novina#Nc	132985
+novine#Nc	132985
 isključivo#Rg	132984
 obveza#Nc	132966
 dnevni#Ag	132895
@@ -1184,6 +1188,7 @@ duhovan#Ag	115532
 prodavati#Vm	115512
 muzej#Nc	115312
 korist#Nc	115251
+nadati se#Vm	74107
 pružati#Vm	115034
 valjati#Vm	114840
 nazivati#Vm	114415
@@ -1598,6 +1603,7 @@ zaustaviti#Vm	83941
 kiša#Nc	83900
 stadion#Nc	83812
 studija#Nc	83632
+zvati se#Vm	83587
 isplatiti#Vm	83585
 knjižnica#Nc	83520
 sudski#Ag	83440
@@ -1814,6 +1820,7 @@ institut#Nc	72000
 svega#Rg	71783
 identitet#Nc	71741
 demokracija#Nc	71689
+sjećati se#Vm	71616
 van#Rg	71670
 napadač#Nc	71660
 dokumentacija#Nc	71575
@@ -2345,6 +2352,7 @@ opisivati#Vm	54539
 izvršan#Ag	54494
 osjetljiv#Ag	54491
 specijalan#Ag	54489
+održati se#Vm	54485
 saborski#Ag	54443
 izvođač#Nc	54353
 navika#Nc	54341
@@ -3717,6 +3725,7 @@ osvajati#Vm	30576
 usuditi#Vm	30573
 funta#Nc	30564
 domena#Nc	30553
+nalaziti se#Vm	305542
 propust#Nc	30549
 lider#Nc	30548
 obaviti#Ap	30545
@@ -3911,6 +3920,7 @@ agent#Nc	28682
 ispraviti#Vm	28644
 brodogradilište#Nc	28633
 obilježavati#Vm	28612
+dati se#Vm	28599
 samostalno#Rg	28597
 gen#Nc	28584
 Nina#Np	28572
@@ -4254,12 +4264,14 @@ strogo#Rg	25569
 tužitelj#Nc	25568
 dojka#Nc	25564
 istaknuti#Ap	25554
+istaknut#Ag	25554
 zaslon#Nc	25549
 mudar#Ag	25544
 Peter#Np	25536
 švicarski#Ag	25530
 pučki#Ag	25523
 siromaštvo#Nc	25519
+razvijati se#Vm	25515
 aranžman#Nc	25512
 kaos#Nc	25511
 al#Y	25511
@@ -8261,6 +8273,7 @@ konstatacija#Nc	9812
 fascinirati#Vm	9811
 ten#Nc	9811
 Microsoftov#As	9810
+ispostaviti se#Vm	9808
 napuštanje#Nc	9807
 Čović#Np	9806
 dvadeseti#Ml	9797
@@ -10718,6 +10731,7 @@ nesmetano#Rg	6596
 pomorstvo#Nc	6596
 katastarski#Ag	6595
 zvonko#Rg	6595
+oficir#Nc	6594
 linearan#Ag	6593
 dlačica#Nc	6592
 pahuljica#Nc	6592
@@ -11974,6 +11988,7 @@ vaterpolski#Ag	5505
 labirint#Nc	5505
 sponzorstvo#Nc	5504
 konotacija#Nc	5503
+omladina#Nc	5503
 Vlah#Np	5503
 zaokružiti#Ap	5503
 minutni#Ag	5503
@@ -13767,6 +13782,7 @@ udaja#Nc	4376
 međugeneracijski#Ag	4375
 tačka#Nc	4374
 patetičan#Ag	4373
+rušiti se#Vm	4373
 uračunati#Vm	4373
 pikado#Nc	4373
 neistomišljenik#Nc	4372
@@ -17699,6 +17715,7 @@ inox#Nc	2847
 uzrujati#Vm	2847
 potvrdno#Rg	2846
 gusjenica#Nc	2846
+transformator#Nc	2846
 militi#Vm	2846
 shizofrenija#Nc	2846
 začinski#Ag	2846
@@ -22443,6 +22460,7 @@ lokot#Nc	1829
 pogrješka#Nc	1829
 reciklažan#Ag	1829
 samica#Nc	1828
+sviđati se#Vm	1828
 motoriziran#Ag	1828
 spetljati#Vm	1828
 podnevni#Ag	1827
@@ -25199,6 +25217,7 @@ procjep#Nc	1453
 Hoffman#Np	1453
 filologija#Nc	1453
 kripta#Nc	1453
+uvrijeđen#Ag	1452
 štancati#Vm	1452
 pridobivanje#Nc	1452
 blamirati#Vm	1452
@@ -31275,6 +31294,7 @@ intranet#Nc	920
 Barković#Np	920
 orbitalni#Ag	920
 rodoljuban#Ag	920
+rodoljubni#Ag	920
 sjemeni#Ag	920
 plutača#Nc	920
 homogenizacija#Nc	919
@@ -32098,6 +32118,7 @@ povlačiti#Rr	868
 gnostik#Nc	868
 Grabovica#Np	868
 purpuran#Ag	868
+purpurni#Ag	868
 provreti#Vm	868
 zauzeti#Rr	868
 škicnuti#Vm	868
@@ -44870,6 +44891,8 @@ parapet#Nc	380
 prizivati#Rr	379
 brkanje#Nc	379
 curak#Nc	379
+zauzet#Ag	4547
+cura#Nc	73302
 Melkior#Np	379
 ikebana#Nc	379
 stiliziranje#Nc	379
@@ -49039,6 +49062,7 @@ pomodarski#Ag	296
 mrmljati#Rr	296
 areola#Nc	296
 niskotlačni#Ag	296
+niskotlačan#Ag	296
 glaziran#Ag	296
 morfem#Nc	296
 krasopis#Nc	296
@@ -53960,6 +53984,7 @@ putin#As	223
 Živana#Np	223
 Breko#Np	223
 neopravdanost#Nc	223
+opravdano#Rg	1407
 Salamun#Np	223
 svjetovnost#Nc	223
 Čipčić#Np	223
@@ -60157,6 +60182,8 @@ reduta#Nc	156
 Majkus#Np	156
 Pipp#Np	156
 kvartarni#Ag	156
+dojmiti se#Vm	2815
+kvartaran#Ag	156
 Arbutina#Np	156
 uzvišica#Nc	156
 odšlepati#Vm	156
@@ -151253,7 +151280,7 @@ phishingov#As	0
 strehin#As	0
 simfoničarov#As	0
 Kuveždan#Np	0
-previše#Rg	0
+previše#Rg	204363
 revizionistov#As	0
 musakin#As	0
 dinjin#As	0
@@ -156969,7 +156996,7 @@ planetoidov#As	0
 prečilo#Rg	0
 Ulijan#Np	0
 granulomov#As	0
-južni#Ag	0
+južni#Ag	87295
 kesonsko#Rg	0
 Naletoski#Np	0
 Amide#Np	0
@@ -158224,7 +158251,7 @@ preneizlječiv#Ag	0
 Bajutti#Np	0
 tetanusov#As	0
 štrudlov#As	0
-ispušni#Ag	0
+ispušni#Ag	10515
 Bajran#Np	0
 Gotzl#Np	0
 preslinavo#Rg	0
@@ -161063,7 +161090,7 @@ Deila#Np	0
 preindustrijski#Rg	0
 Bikešić#Np	0
 tantijemin#As	0
-krizni#Ag	0
+krizni#Ag	23684
 izgredničko#Rg	0
 laksativov#As	0
 Ogorevac#Np	0
@@ -163551,7 +163578,7 @@ Djoić#Np	0
 reunifikacijin#As	0
 Ulfeta#Np	0
 Gospićin#As	0
-preobilno#Rg	0
+preobilno#Rg	82
 aliteracijin#As	0
 kamp-prikoličin#As	0
 poluobrazovano#Rg	0
@@ -164830,7 +164857,7 @@ dobroupućeno#Rg	0
 poklonikov#As	0
 zahihotati#Rr	0
 avijatičarkin#As	0
-matični#Ag	0
+matični#Ag	47856
 biootpadov#As	0
 Dražajić#Np	0
 potrpjeti#Rr	0
@@ -169913,7 +169940,7 @@ diskofilov#As	0
 Obćević#Np	0
 Hevir#Np	0
 barbudski#Rg	0
-kolektivni#Ag	0
+kolektivni#Ag	47053
 augustinski#Rg	0
 Miranka#Np	0
 procjepno#Rg	0
@@ -180641,7 +180668,7 @@ premetačinin#As	0
 Zilbeari#Np	0
 Fitoš#Np	0
 predomišljato#Rg	0
-pravi#Ag	0
+pravi#Ag	549591
 preuhićeno#Rg	0
 staklopuhačev#As	0
 holštajnicin#As	0
@@ -180795,7 +180822,7 @@ pasažin#As	0
 nišanov#As	0
 Župan-Rusković#Np	0
 oksalacetatov#As	0
-samoupravni#Ag	0
+samoupravni#Ag	2925
 preveljački#Ag	0
 dremovno#Rg	0
 Svilonovićin#As	0
@@ -186466,7 +186493,7 @@ preprašan#Ag	0
 Velfling#Np	0
 Soltar#Np	0
 prehladetinast#Ag	0
-književni#Ag	0
+književni#Ag	54721
 poliginijin#As	0
 peterosobno#Rg	0
 Obrst#Np	0
@@ -186741,3 +186768,245 @@ zahodov#As	0
 osnivateljev#As	0
 naoblačiti#Rr	0
 uvoditeljev#As	0
+preobražen#Ag	234
+restauriran#Ag	2925
+gnijezditi se#Vm	271
+slediti#Vm	948
+boriti se#Vm	76995
+gegati se#Vm	250
+opustošen#Ag	445
+dignuti se#Vm	6546
+komandant#Nc	2567
+predodređen#Ag	206
+nazubljen#Ag	361
+otklonjen#Ag	44
+vezir#Nc	824
+opij#Nc	36
+orden#Nc	917
+pojavljivati se#Vm	39738
+granati se#Vm	404
+sastojati se#Vm	65790
+nacionalni#Ag	214502
+jedostavno#Rg	344999
+standardni#Ag	56001
+vraćati se#Vm	59152
+podređen#Ag	1571
+aromatiziran#Ag	273
+proučen#Ag	78
+podrediti se#Vm	413
+vidjeti se#Vm	118760
+ograničen#Ag	13373
+urešen#Ag	108
+smiješiti se#Vm	4048
+drum#Nc	1107
+zaposjednut#Ag	178
+mozak#Nc	110710
+desiti se#Vm	25599
+umni#Ag	4681
+jače#Rg	23919
+ornamentiran#Ag	41
+kretati se#Vm	45116
+transformirati se#Vm	1478
+opravdati se#Vm	3468
+sekretar#Nc	4827
+vlastelinski#Ag	559
+izdvajati se#Vm	5903
+višespolan#Ag	1
+stanovište#Nc	792
+događati se#Vm	86350
+tjelesan#Ag	76394
+gore#Rg	145015
+onodobni#Ag	1612
+odvažiti se#Vm	2337
+zbijen#Ag	319
+ustrojen#Ag	300
+doimati se#Vm	4632
+specijalizirati se#Vm	2433
+uspaničiti se#Vm	378
+pitati se#Vm	75952
+krajobraz#Nc	3179
+namnožiti se#Vm	373
+stanovište#Nc	792
+događati se#Vm	86350
+tjelesan#Ag	76394
+gore#Rg	145015
+onodobni#Ag	1612
+odvažiti se#Vm	2337
+zbijen#Ag	319
+ustrojen#Ag	300
+doimati se#Vm	4632
+specijalizirati se#Vm	2433
+uspaničiti se#Vm	378
+pitati se#Vm	75952
+krajobraz#Nc	3179
+namnožiti se#Vm	373
+ravnati se#Vm	2164
+micati se#Vm	3916
+oduprijeti se#Vm	4368
+posvjedočen#Ag	15
+podrazumijevati se#Vm	7595
+nosilac#Nc	2018
+uzdati se#Vm	3430
+domobran#Nc	2753
+naći se#Vm	99161
+razlikovan#Ag	1193
+okretati se#Vm	12126
+prozirnica#Nc	43
+opravdan#Ag	7475
+razlikovati se#Vm	22669
+temeljni#Ag	73592
+čitalački#Ag	1637
+rasprostranjen#Ag	395
+nikakav#Ag	39300
+oledba#Nc	52
+osobni#Ag	208743
+povući se#Vm	15303
+preobraćen#Ag	38
+zbiti se#Vm	7077
+obrušavati se#Vm	619
+oči#Nc	281575
+pothranjen#Ag	97
+javiti se#Vm	68248
+dizati se#Vm	11693
+uvjeriti se#Vm	15930
+osnutak#Nc	14726
+prosjek#Nc	52755
+povazdan#Rg	4
+odugovačenje#Nc	2590
+utvrđen#Ag	7470
+rahliti#Vm	18
+trti#Vm	279
+usustavljivanje#Nc	75
+pokoren#Ag	176
+rasprostraniti se#Vm	48
+usredotočiti se#Vm	4469
+skvrčiti se#Vm	107
+rubnica#Nc	28
+žitak#Nc	61
+bojati se#Vm	87665
+oskvrnjen#Ag	46
+tolik#Ag	12815
+zadan#Ag	13507
+opskrbljen#Ag	146
+zaokupljen#Ag	25
+žarki#Ag	3227
+jednaput#Rg	15964
+preobratiti se#Vm	482
+brinuti se#Vm	34402
+obrstiti#Vm	105
+prihvaćen#Ag	2228
+oblast#Nc	9566
+uzročnica#Nc	15
+podređeni#Nc	2
+prosvijetljen#Ag	214
+širiti se#Vm	17729
+nabirati se#Vm	49
+općenito#Rg	75052
+zanositi se#Vm	1157
+odreći se#Vm	15846
+ustaljen#Ag	3003
+stid#Nc	4252
+nadređen#Ag	1521
+potisnut#Ag	1201
+otuđen#Ag	853
+iskrčen#Ag	44
+samopopuzdanje#Nc	28308
+oprimjeriti#Vm	63
+penjati se#Vm	10011
+ugrožen#Ag	6218
+ustupljen#Ag	492
+bruto#Nc	1215
+izvorni#Ag	39223
+oparati#Vm	23
+pak#Rg	226393
+nekton#Nc	3
+ispreden#Ag	7
+pojednostavljen#Ag	850
+primarni#Ag	39223
+uklesan#Ag	339
+baviti se#Vm	142984
+nasmijati se#Vm	11615
+bliz#Ag	632
+skutriti se#Vm	118
+mahom#Rg	85
+okrenuti se#Vm	28525
+obrezan#Ag	171
+nastati#Vm	12980
+prožimati se#Vm	535
+integriran#Ag	7433
+podvlačiti se#Vm	166
+razrahljen#Ag	5
+zauzimati se#Vm	3540
+svaliti se#Vm	183
+prostirati se#Vm	6625
+okrnjen#Ag	223
+zbunjen#Ag	1176
+kreševo#Nc	29
+štampa#Nc	2794
+igrati se#Vm	65533
+podržan#Ag	744
+gibak#Ag	495
+ticati se#Vm	171740
+odvijati se#Vm	41436
+upustiti se#Vm	6651
+priklonjen#Ag	7
+roditi se#Vm	26683
+zašto#Rg	578222
+zadužiti se#Vm	1888
+pojaviti se#Vm	89794
+vrtložast#Ag	6
+uzastopan#Ag	19739
+takav#Ag	5380
+odigrati se#Vm	5733
+poistovjećivati se#Vm	1199
+suočiti se#Vm	11621
+zloporaba#Nc	2867
+špekula#Nc	65
+predviđen#Ag	12204
+očitovati se#Vm	15969
+čuditi se#Vm	19863
+razasut#Ag	262
+gromadni#Ag	36
+zaprepastiti se#Vm	488
+demotika#Nc	6
+vezivati se#Vm	2568
+ushtjeti#Vm	11
+njihati se#Vm	1101
+sjetiti se#Vm	67798
+zapostavljen#Ag	341
+opstati#Vm	14127
+diviti se#Vm	12742
+sklanjati se#Vm	959
+prinostiti#Vm	4387
+pojedinačni#Ag	44638
+mrijestiti se#Vm	301
+narušen#Ag	1651
+udružen#Ag	3560
+motivatorica#Nc	6
+razilaziti se#Vm	1093
+podzid#Nc	92
+služiti se#Vm	16522
+osnovni#Ag	208743
+ura#Nc	464
+mati#Nc	24363
+nabujao#Ag	1506
+gvozden#Ag	464
+osposobljen#Ag	470
+prilagođavati se#Vm	4991
+zaokružen#Ag	894
+vrpoljiti se#Vm	289
+naime#Rg	71837
+nekakav#Ag	19334
+skrutnuti#Vm	44
+razmnožiti se#Vm	330
+nadređeni#Nc	374
+ubilježavati#Vm	13
+javni#Ag	381152
+predočen#Ag	414
+plodište#Nc	33
+vratiti se#Vm	146604
+osvjedočeno#Rg	72
+svaki#Ag	1623039
+zateći se#Vm	3978
+smješkati se#Vm	3295
+izdvojen#Ag	4697

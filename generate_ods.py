@@ -21,8 +21,8 @@ for doc in sorted(os.listdir('docs/')):
   header=['leksem',u'vr']
   for i in range(20):
     user_index.append(doc.split('.')[0]+'.'+str(i+1).zfill(2))
-    header.append('k'+str(i+1).zfill(2))
-    header.append(u'č'+str(i+1).zfill(2))
+    header.append('p'+str(i+1).zfill(2))
+    header.append(u'd'+str(i+1).zfill(2))
   data.update({doc.split('.')[0]:[header]+[[e.strip().decode('utf8'),pos[e.strip()]] for e in open('docs/'+doc)]})
 data.update({'ispitanici':[['ispitanik','spol','godine',u'mjesto rođenja',u'mjesto života','strani jezici',u'čitanje']]+[[e] for e in user_index]})
-save_data("megahr.ods", data)
+save_data("megahr.predočivost.ods", data)
